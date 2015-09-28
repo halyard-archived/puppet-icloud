@@ -1,11 +1,6 @@
 # == Class: icloud
 #
-# Full description of class icloud here.
-#
-# === Parameters
-#
-# [*sample_parameter*]
-#   Explanation of what this parameter affects and what it defaults to.
+# Configure iCloud options
 #
 class icloud (
 ) {
